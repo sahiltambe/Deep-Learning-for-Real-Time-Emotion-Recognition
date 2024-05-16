@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Emotion Detection
+Emotion Detection/
 .Python
 build/
 develop-eggs/

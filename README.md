@@ -75,7 +75,6 @@ Deploy the trained model using Gradio (deploy_gradio.py).
 - Training Accuracy: 55.93%
 - Validation Accuracy: 55.00%
 - Final Test Accuracy: 24.00%
-- Confusion Matrix:
 
 ## ResNet50 Transfer Learning:
 
